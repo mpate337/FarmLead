@@ -5,7 +5,14 @@
     <classes>
       <class name="example.LoginTest">
         <methods>
-          <include name="verifyHomepageTitle"/>
+          <include name="testcase2"/>
+          <include name="testcase19"/>
+          <include name="setproperty"/>
+          <include name="testcase9"/>
+          <include name="testcase8"/>
+          <include name="testcase5"/>
+          <include name="testcase4"/>
+          <include name="testcase15"/>
         </methods>
       </class> <!-- example.LoginTest -->
     </classes>
